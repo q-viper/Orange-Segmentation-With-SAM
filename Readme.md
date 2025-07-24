@@ -1,5 +1,9 @@
 # Task: Orange segmentation with SAM
+
+~[](assets/sam_results.png)
+
 I did this project while taking a project on representation learning in the summer semester at FAU Erlangen-Nuremberg.
+
 
 ## Data
 Source: [Kaggle](https://www.kaggle.com/datasets/durgapokharel/orange-infection-mask-dataset)
