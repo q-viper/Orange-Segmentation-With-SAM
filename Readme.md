@@ -1,6 +1,6 @@
 # Task: Orange segmentation with SAM
 
-~[](assets/sam_results.png)
+![](assets/sam_results.png)
 
 I did this project while taking a project on representation learning in the summer semester at FAU Erlangen-Nuremberg.
 
